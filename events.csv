@@ -1,0 +1,4 @@
+﻿frame,timestamp_sec,timestamp_hms,event,note,delay_from_last_empty_sec
+0,0.0,00:00:00.000,empty,initial_state,
+54,2.7,00:00:02.700,approach,directly_to_seat,
+54,2.7,00:00:02.700,occupied,person_in_seat_zone,
